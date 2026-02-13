@@ -31,9 +31,4 @@
 
   ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsPerrut&show_icons=true&theme=merko) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsPerrut&layout=compact&theme=merko)](https://github.com/GabsPerrut/github-readme-stats)
-
-##
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=GabsPerrut&theme=radical&hide_border=true&count_private=true)
